@@ -1,0 +1,6 @@
+﻿  Principal.cpp
+C:\Users\Usuario\Desktop\Progra-1-main\Progra-1-main\Proyecto Hospital Veterinario\Proyecto Hospital Veterinario\Principal.cpp(13,30): warning C4101: 'canDoc': variable local sin referencia
+C:\Users\Usuario\Desktop\Progra-1-main\Progra-1-main\Proyecto Hospital Veterinario\Proyecto Hospital Veterinario\Principal.cpp(13,23): warning C4101: 'canEs': variable local sin referencia
+C:\Users\Usuario\Desktop\Progra-1-main\Progra-1-main\Proyecto Hospital Veterinario\Proyecto Hospital Veterinario\Principal.cpp(13,38): warning C4101: 'canMas': variable local sin referencia
+C:\Users\Usuario\Desktop\Progra-1-main\Progra-1-main\Proyecto Hospital Veterinario\Proyecto Hospital Veterinario\Principal.cpp(13,46): warning C4101: 'edad': variable local sin referencia
+C:\Users\Usuario\Desktop\Progra-1-main\Progra-1-main\Proyecto Hospital Veterinario\Proyecto Hospital Veterinario\Principal.cpp(13,52): warning C4101: 'canDue': variable local sin referencia
